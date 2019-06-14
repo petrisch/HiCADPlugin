@@ -1,0 +1,3 @@
+C:\Users\patrick.joerg.GDS\source\repos\WindowsFormsApp2\obj\Release\Plugininterface.g.cs
+C:\Users\patrick.joerg.GDS\source\repos\WindowsFormsApp2\obj\Release\WindowsFormsApp2_MarkupCompile.cache
+C:\Users\patrick.joerg.GDS\source\repos\WindowsFormsApp2\obj\Release\WindowsFormsApp2_MarkupCompile.lref
