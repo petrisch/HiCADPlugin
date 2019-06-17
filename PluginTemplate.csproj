@@ -36,8 +36,173 @@
     <StartupObject />
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="ISD.BaseTypes, Version=17.0.0.0, Culture=neutral, PublicKeyToken=bb553eeeaa4136af, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\HiCAD\exe\API\ISD.BaseTypes.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ISD.CAD.Base, Version=17.0.0.0, Culture=neutral, PublicKeyToken=bb553eeeaa4136af, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\HiCAD\exe\API\ISD.CAD.Base.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ISD.CAD.Bridge.Helios, Version=17.0.0.0, Culture=neutral, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\HiCAD\exe\API\ISD.CAD.Bridge.Helios.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ISD.CAD.Contexts, Version=17.0.0.0, Culture=neutral, PublicKeyToken=bb553eeeaa4136af, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\HiCAD\exe\API\ISD.CAD.Contexts.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ISD.CAD.Creators, Version=17.0.0.0, Culture=neutral, PublicKeyToken=bb553eeeaa4136af, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\HiCAD\exe\API\ISD.CAD.Creators.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ISD.CAD.Data, Version=17.0.0.0, Culture=neutral, PublicKeyToken=bb553eeeaa4136af, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\HiCAD\exe\API\ISD.CAD.Data.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ISD.CAD.Data.PartsList, Version=17.0.0.0, Culture=neutral, PublicKeyToken=bb553eeeaa4136af, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\HiCAD\exe\API\ISD.CAD.Data.PartsList.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ISD.CAD.Debug, Version=17.0.0.0, Culture=neutral, PublicKeyToken=bb553eeeaa4136af, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\HiCAD\exe\API\ISD.CAD.Debug.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ISD.CAD.Dimensioning, Version=17.0.0.0, Culture=neutral, PublicKeyToken=bb553eeeaa4136af, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\HiCAD\exe\API\ISD.CAD.Dimensioning.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ISD.CAD.Feature, Version=17.0.0.0, Culture=neutral, PublicKeyToken=bb553eeeaa4136af, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\HiCAD\exe\API\ISD.CAD.Feature.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ISD.CAD.Gears, Version=17.0.0.0, Culture=neutral, PublicKeyToken=bb553eeeaa4136af, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\HiCAD\exe\API\ISD.CAD.Gears.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ISD.CAD.GUI.Base, Version=1.0.0.0, Culture=neutral, PublicKeyToken=bb553eeeaa4136af, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\HiCAD\exe\API\ISD.CAD.GUI.Base.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ISD.CAD.GUI.PartSrv, Version=1.0.0.0, Culture=neutral, PublicKeyToken=bb553eeeaa4136af, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\HiCAD\exe\API\ISD.CAD.GUI.PartSrv.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ISD.CAD.IFC2X3, Version=17.0.0.0, Culture=neutral, PublicKeyToken=bb553eeeaa4136af, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\HiCAD\exe\API\ISD.CAD.IFC2X3.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ISD.CAD.Interface, Version=17.0.0.0, Culture=neutral, PublicKeyToken=bb553eeeaa4136af, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\HiCAD\exe\API\ISD.CAD.Interface.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ISD.CAD.IO, Version=17.0.0.0, Culture=neutral, PublicKeyToken=bb553eeeaa4136af, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\HiCAD\exe\API\ISD.CAD.IO.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ISD.CAD.Modifiers, Version=17.0.0.0, Culture=neutral, PublicKeyToken=bb553eeeaa4136af, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\HiCAD\exe\API\ISD.CAD.Modifiers.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ISD.CAD.Parametrisation, Version=17.0.0.0, Culture=neutral, PublicKeyToken=bb553eeeaa4136af, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\HiCAD\exe\API\ISD.CAD.Parametrisation.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ISD.CAD.PartSrv, Version=17.0.0.0, Culture=neutral, PublicKeyToken=bb553eeeaa4136af, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\HiCAD\exe\API\ISD.CAD.PartSrv.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ISD.CAD.PartSrvAccess, Version=0.0.0.0, Culture=neutral, PublicKeyToken=bb553eeeaa4136af, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\HiCAD\exe\API\ISD.CAD.PartSrvAccess.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ISD.CAD.Plates, Version=1.0.0.0, Culture=neutral, PublicKeyToken=bb553eeeaa4136af, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\HiCAD\exe\API\ISD.CAD.Plates.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ISD.CAD.Repeaters, Version=17.0.0.0, Culture=neutral, PublicKeyToken=bb553eeeaa4136af, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\HiCAD\exe\API\ISD.CAD.Repeaters.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ISD.CAD.Steel, Version=17.0.0.0, Culture=neutral, PublicKeyToken=bb553eeeaa4136af, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\HiCAD\exe\API\ISD.CAD.Steel.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ISD.Core.API, Version=17.0.0.0, Culture=neutral, PublicKeyToken=bb553eeeaa4136af, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\HiCAD\exe\API\ISD.Core.API.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ISD.Core.Types, Version=17.0.0.0, Culture=neutral, PublicKeyToken=bb553eeeaa4136af, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\HiCAD\exe\API\ISD.Core.Types.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ISD.IFC2X3, Version=17.0.0.0, Culture=neutral, PublicKeyToken=bb553eeeaa4136af, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\HiCAD\exe\API\ISD.IFC2X3.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ISD.Interface.Cadenas, Version=17.0.0.0, Culture=neutral, PublicKeyToken=bb553eeeaa4136af, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\HiCAD\exe\API\ISD.Interface.Cadenas.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ISD.Licensing, Version=1.0.0.0, Culture=neutral, PublicKeyToken=bb553eeeaa4136af, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\HiCAD\exe\API\ISD.Licensing.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ISD.Math, Version=17.0.0.0, Culture=neutral, PublicKeyToken=bb553eeeaa4136af, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\HiCAD\exe\API\ISD.Math.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="ISD.Plugin">
       <HintPath>..\..\..\..\..\HiCAD\exe\API\ISD.Plugin.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ISD.Scripting, Version=17.0.0.0, Culture=neutral, PublicKeyToken=bb553eeeaa4136af, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\HiCAD\exe\API\ISD.Scripting.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ISD.TopGeom.Geometry, Version=0.0.0.0, Culture=neutral, PublicKeyToken=bb553eeeaa4136af, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\HiCAD\exe\API\ISD.TopGeom.Geometry.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ISD.TopGeom.Topology, Version=0.0.0.0, Culture=neutral, PublicKeyToken=bb553eeeaa4136af, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\HiCAD\exe\API\ISD.TopGeom.Topology.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ISD.Utilities, Version=0.0.0.0, Culture=neutral, PublicKeyToken=bb553eeeaa4136af, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\HiCAD\exe\API\ISD.Utilities.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="PresentationCore">
@@ -87,6 +252,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FigureLoader.cs" />
+    <Compile Include="PropertyReader.cs" />
     <Compile Include="Plugin.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Plugininterface.xaml.cs">

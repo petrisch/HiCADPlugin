@@ -2,11 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-//using System.Windows.Forms;
-
 using ISD.Plugin;
 using System.Windows.Controls;
-
 
 namespace PluginTemplate
 {
@@ -17,10 +14,10 @@ namespace PluginTemplate
         /// </summary>
         // [STAThread]
 
-        public string Name => "Hi Patrick";
-        public string Description => "My Plugin is this";
-        public string Author => "Patrick Jörg";
-        public Version Version => new Version("1.0");
+        public string Name => "PluginTemplate";
+        public string Description => "Example Plugin for Tests";
+        public string Author => "Patrick Jörg, patrick.joerg@gilgends.com";
+        public Version Version => new Version("0.1");
 
         public System.Windows.Controls.Control UserInterface => new Plugininterface();
 
