@@ -26,3 +26,17 @@ C:\Users\patrick.joerg.GDS\source\repos\petrisch\HiCADPlugin\obj\Debug\PluginTem
 C:\Users\patrick.joerg.GDS\source\repos\petrisch\HiCADPlugin\obj\Debug\PluginTemplate.csproj.CoreCompileInputs.cache
 C:\Users\patrick.joerg.GDS\source\repos\petrisch\HiCADPlugin\obj\Debug\PluginTemplate.dll
 C:\Users\patrick.joerg.GDS\source\repos\petrisch\HiCADPlugin\obj\Debug\PluginTemplate.pdb
+C:\Users\patrick.joerg\Source\Repos\petrisch\HiCADPlugin\bin\Debug\PluginTemplate.dll.config
+C:\Users\patrick.joerg\Source\Repos\petrisch\HiCADPlugin\bin\Debug\PluginTemplate.dll
+C:\Users\patrick.joerg\Source\Repos\petrisch\HiCADPlugin\bin\Debug\PluginTemplate.pdb
+C:\Users\patrick.joerg\Source\Repos\petrisch\HiCADPlugin\obj\Debug\PluginTemplate.csprojAssemblyReference.cache
+C:\Users\patrick.joerg\Source\Repos\petrisch\HiCADPlugin\obj\Debug\Plugininterface.g.cs
+C:\Users\patrick.joerg\Source\Repos\petrisch\HiCADPlugin\obj\Debug\PluginTemplate_MarkupCompile.cache
+C:\Users\patrick.joerg\Source\Repos\petrisch\HiCADPlugin\obj\Debug\PluginTemplate_MarkupCompile.lref
+C:\Users\patrick.joerg\Source\Repos\petrisch\HiCADPlugin\obj\Debug\Plugininterface.baml
+C:\Users\patrick.joerg\Source\Repos\petrisch\HiCADPlugin\obj\Debug\PluginTemplate.g.resources
+C:\Users\patrick.joerg\Source\Repos\petrisch\HiCADPlugin\obj\Debug\PluginTemplate.Properties.Resources.resources
+C:\Users\patrick.joerg\Source\Repos\petrisch\HiCADPlugin\obj\Debug\PluginTemplate.csproj.GenerateResource.cache
+C:\Users\patrick.joerg\Source\Repos\petrisch\HiCADPlugin\obj\Debug\PluginTemplate.csproj.CoreCompileInputs.cache
+C:\Users\patrick.joerg\Source\Repos\petrisch\HiCADPlugin\obj\Debug\PluginTemplate.dll
+C:\Users\patrick.joerg\Source\Repos\petrisch\HiCADPlugin\obj\Debug\PluginTemplate.pdb
