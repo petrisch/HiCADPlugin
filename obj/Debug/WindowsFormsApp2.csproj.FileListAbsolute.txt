@@ -1,4 +1,0 @@
-C:\Users\patrick.joerg.GDS\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
-C:\Users\patrick.joerg.GDS\source\repos\WindowsFormsApp2\obj\Debug\Plugininterface.g.cs
-C:\Users\patrick.joerg.GDS\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2_MarkupCompile.cache
-C:\Users\patrick.joerg.GDS\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2_MarkupCompile.lref
