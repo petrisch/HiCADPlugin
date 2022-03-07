@@ -24,17 +24,18 @@ namespace PluginTemplate
         public Plugininterface()
         {
             InitializeComponent();
-            
         }
 
-        //private void InitializeComponent()
-        //{
-        //    throw new NotImplementedException();
-        //}
-
-        public void HelloMessageButton(object sender, RoutedEventArgs e)
+        public void LoadFigureButton(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Hi Patrick jpc");
+            String filename = SolidHeight.Text;
+            MessageBox.Show(SolidHeight.Text);
+
+            PropertyReader propertyReader = new PropertyReader();
+
+            FigureLoader prFigure = new FigureLoader(Convert.ToInt32(propertyReader.GetProperty("pr_lichte_breite_L", filename)));
+
         }
+
     }
 }
